@@ -30,11 +30,17 @@ Welcome to my digital space! I am a researcher and data analyst focused on bridg
 
 ---
 
+### 💼 Leadership & Initiatives
+- 🏛️ **Founder & Executive Director** at [Titas Foundation](https://titasfoundation.org) — Leading community development, social initiatives, and digital transformation.
+---
+
 ### 🌐 Connect & Collaborate
 
 Let's connect to share ideas about data, policy, or cybersecurity!
 
-- 💻 **Personal Website & Blog:** [sazzat.com](https://sazzat.com)
+
+- 💻 **Personal Portfolio:** [sazzat.com](https://sazzat.com)
+- 📝 **Blog Site:** [Eracox](https://eracox.com) — *My personally designed blogging platform covering digital trends and insights.*
 - 🎓 **Academic Profiles:** [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID_HERE) • [ORCID iD](https://orcid.org/0009-0009-2669-7196)
 - 💼 **Professional Network:** [LinkedIn](https://linkedin.com/in/SazzatHj)
 - 📧 **Get in Touch:** [Email Me](mailto:sazzat.hj@gmail.com)
