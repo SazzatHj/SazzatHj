@@ -1,4 +1,4 @@
-# Hi there, I'm Sazzat Hossain Jasim 👋
+# Hi there, I'm Sazzat Hj
 
 Welcome to my digital space! I am a researcher and data analyst focused on bridging the gap between data-driven research, public policy, and cybersecurity. I love building reproducible workflows and analyzing complex behavioral and security frameworks.
 
