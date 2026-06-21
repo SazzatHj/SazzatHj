@@ -43,7 +43,7 @@ Let's connect to share ideas about data, policy, or cybersecurity!
 - 📝 **Blog Site:** [Eracox](https://eracox.com) — *My personally designed blogging platform covering digital trends and insights.*
 - 🎓 **Academic Profiles:** [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID_HERE) • [ORCID iD](https://orcid.org/0009-0009-2669-7196)
 - 💼 **Professional Network:** [LinkedIn](https://linkedin.com/in/SazzatHj)
-- 📧 **Get in Touch:** [Email Me](mailto:sazzat.hj@gmail.com)
+- 📧 **Get in Touch:** [Email Me](https://sazzat.com/contact/)
 
 ---
 *“Transforming raw data into meaningful policy and secure digital governance.”*
