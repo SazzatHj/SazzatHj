@@ -39,7 +39,7 @@ Welcome to my digital space! I am a researcher and data analyst focused on bridg
 Let's connect to share ideas about data, policy, or cybersecurity!
 
 
-- 💻 **Personal Portfolio:** [sazzat.com](https://sazzat.com)
+- 💻 **Personal Portfolio:** [Sazzat.com](https://sazzat.com)
 - 📝 **Blog Site:** [Eracox.com](https://eracox.com)
 - 🎓 **Academic Profiles:** [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID_HERE) • [ORCID iD](https://orcid.org/0009-0009-2669-7196)
 - 💼 **Professional Network:** [LinkedIn](https://linkedin.com/in/SazzatHj)
