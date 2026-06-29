@@ -51,7 +51,7 @@ My academic research investigates governance, public policy, and international r
 
 ## 💼 Leadership & Initiatives
 
-* **Founder & President** at [Titas Foundation]((https://titasfoundation.org) (2025–Present)
+* **Founder & President** at [Titas Foundation](https://titasfoundation.org) (2025–Present)
   * Leading student-led educational, environmental, and community development programs, including *Qard Hasanah* (interest-free financial assistance).
 
 <details>
