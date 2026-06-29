@@ -37,6 +37,7 @@ My academic research investigates governance, public policy, and international r
 ---
 ## 🚀 Featured Tech Stack
 
+![Data Science](https://img.shields.io/badge/DATA_SCIENCE-CF5C42?style=for-the-badge&logo=datascience&logoColor=white)
 ![Reproducible Research](https://img.shields.io/badge/REPRODUCIBLE_RESEARCH-005F73?style=for-the-badge&logo=githubactions&logoColor=white)
 ![R Language](https://img.shields.io/badge/R%20LANGUAGE-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LATEX-008080?style=for-the-badge&logo=latex&logoColor=white) 
