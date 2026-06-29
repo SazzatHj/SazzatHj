@@ -1,23 +1,92 @@
-# Hi there, I'm Sazzat Hj
+# Hi, I'm Sazzat Hj
 
-Welcome to my digital space! I am a researcher and data analyst focused on bridging the gap between data-driven research, public policy, and cybersecurity. I love building reproducible workflows and analyzing complex behavioral and security frameworks.
+Welcome to my digital space!
+
+I am an Academic Researcher and Cybersecurity Specialist. I specialize in leveraging data science and robust security architectures to solve high-stakes challenges in both public policy and digital infrastructure.
+
+My work uniquely integrates Reproducible Research practices with advanced technical domains like Open Source Intelligence (OSINT), Penetration Testing, and Data Analytics. Whether modeling complex human behavior for academic insight or securing web applications against sophisticated attack vectors, I deliver rigorous, data-backed, and security-first solutions.
+
+🌐 **Official Portfolio:** [sazzat.com](https://sazzat.com) | ✍️ **Technical Blog:** [eracox.com](https://eracox.com)
 
 ---
 
-### 🧠 What I Do & Focus On
-- 📊 **Data Science & Analytics:** Developing reproducible research workflows, advanced data visualization, and statistical modeling using the **R ecosystem**.
-- 🏛️ **Public Policy & Behavior:** Exploring behavioral science insights to design effective and impactful public policy frameworks.
-- 🛡️ **Cybersecurity & Governance:** Analyzing cyber politics, digital diplomacy, network monitoring, and behavior-based intrusion detection systems (IDS).
+## 🔬 Academic Research & Interests
+
+My academic research investigates governance, public policy, and international relations, centering on South Asia while highlighting its broader implications for global governance, cybersecurity, and comparative politics.
+
+### Key Areas of Focus:
+* **Global Governance & Diplomacy:** International Relations, Global Diplomacy, and Security Studies.
+* **Cyber Politics & Policy:** Digital Diplomacy, Cybercrime, Cyber Policy, and Cybersecurity Frameworks.
+* **Public Policy & Justice:** Institutional Reform, Public Policy, Human Rights, Criminology, and Criminal Justice Reform.
+* **Sustainable Development:** SDGs, Climate Policy, and Development Governance.
 
 ---
 
-### 🛠️ Toolbox & Technologies
+## 🛠️ Technical Stack & Frameworks
 
-| Domain | Tools & Languages |
+| Domain | Tools, Languages & Methodologies |
 | :--- | :--- |
-| **Data & Research** | `R` • `RStudio` • `tidyverse` (`dplyr`, `ggplot2`, `tidyr`) • `modelsummary` • `Markdown` |
-| **Version Control** | `Git` • `GitHub` |
-| **Security & Systems** | `Linux` • `Snort (IDS)` • Network Monitoring & Penetration Testing Tools |
+| **Research & Analysis** | `R` • `RStudio` • `SPSS` • `SQL` • `tidyverse` • `Quantitative & Reproducible Research` |
+| **Academic Publishing** | `LaTeX` • `TeXstudio` • `TeXmaker` • `Overleaf` • `Zotero` • `R Markdown` |
+| **SecOps, VAPT & OSINT** | `OSINT` • `Penetration Testing` • `Ethical Hacking` • `Vulnerability Assessment` |
+| **WordPress & Web Security** | `Malware Removal` • `Secure Site Migration` • `Error Fixing` • `WordPress Site Management` |
+| **Digital Optimization** | `SEO` • `Keyword Research` • `Google Analytics` • `Meta Ads` • `Google Ads` |
+| **Design & Presentation** | `Adobe Photoshop` • `Canva` • `UI/UX Concepts` |
+| **Core Infrastructure & Markup** | `Linux` • `HTML5` • `CSS3` • `XML` • `Git` • `GitHub` |
+
+---
+## 🚀 Featured Tech Stack
+
+<p align="left">
+  <!-- Cybersecurity -->
+  <img src="https://img.shields.io/badge/CYBERSECURITY-EA4335?style=for-the-badge&logo=shieldsecurity&logoColor=white" alt="Cybersecurity" />
+  <!-- R Language -->
+  <img src="https://img.shields.io/badge/R_LANGUAGE-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Language" />
+  <!-- LaTeX -->
+  <img src="https://img.shields.io/badge/LA_TeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+  <!-- WordPress -->
+  <img src="https://img.shields.io/badge/WORDPRESS-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <!-- Linux -->
+  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <!-- Git -->
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+## 💼 Leadership & Initiatives
+
+* **Founder & President** at [Titas Foundation]((https://titasfoundation.org) (2025–Present)
+  * Leading student-led educational, environmental, and community development programs, including *Qard Hasanah* (interest-free financial assistance).
+
+<details>
+<summary><b>🤝 Additional Volunteer Engagement (Click to expand)</b></summary>
+<br>
+
+* **Information Secretary** — *Bancharampur Police Family Association* (2024–Present)
+  * Coordinating educational and community welfare activities within the organization.
+* **Admin** — *Bancharampur Govt. College Facebook Community* (2016–Present)
+  * Managing a 20,000+ member digital platform dedicated to academic collaboration and peer support.
+
+</details>
+
+
+---
+
+<details>
+<summary><b> 🏅 Professional Certifications & Credentials (Click to expand)</b></summary>
+<br>
+
+* **Reproducible Research Fundamentals** (2026) — *The World Bank Group Institute for Economic Development (WBIED)*
+* **Introduction to Behavioral Science in Public Policy** (2026) — *The World Bank Group Institute for Economic Development (WBIED)*
+* **Cyber Security & Ethical Hacking** (2026) — *Arena Web Security (6-Month Professional Course)*
+* **Introduction to Cybersecurity** (2026) — *Cisco Networking Academy*
+* **Cybersecurity** (2026) — *Asian Development Bank Institute (ADBI)*
+* **Children’s Environmental Health** (2026) — *UNICEF & WHO (AGORA)*
+* **Applied AI for Social Good (Research and Governance)** (2025) — *PoliSync in collaboration with Microsoft Elevate & Partners*
+* **Computer Office Application** (2017) — *Bangladesh Technical Education Board (6-Month Professional Course)*
+
+</details>
 
 ---
 
@@ -33,43 +102,21 @@ Welcome to my digital space! I am a researcher and data analyst focused on bridg
 </p>
 
 
----
-
-### 💼 Leadership & Initiatives
-- 🏛️ **Founder & Executive Director** at [Titas Foundation](https://titasfoundation.org) — Leading community development, social initiatives, and digital transformation.
----
-
-### 🌐 Connect & Collaborate
-
-Let's connect to share ideas about data, policy, or cybersecurity!
-
-
-- 💻 **Personal Portfolio:** [Sazzat.com](https://sazzat.com)
-- 📝 **Blog Site:** [Eracox.com](https://eracox.com)
-- 🎓 **Academic Profiles:** [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID_HERE) • [ORCID iD](https://orcid.org/0009-0009-2669-7196)
-- 💼 **Professional Network:** [LinkedIn](https://linkedin.com/in/SazzatHj)
-- 📧 **Get in Touch:** [Email Me](https://sazzat.com/contact/)
-
----
-*“Transforming raw data into meaningful policy and secure digital governance.”*
-
-
-
 <!-- FOOTER -->
 ---
 
 <p align="center">
-  <b>Let's Connect & Collaborate</b>
+  <b>Let's Connect & Collaborate</b> </br> Let's connect to share ideas about data, policy, or cybersecurity!</p> 
 </p>
+
 <p align="center">
-    <!-- LinkedIn -->
-<a href="https://linkedin.com/in/SazzatHj" title="Connect on LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-🔗-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <!-- Facebook -->
-<a href="https://facebook.com/Sazzathj" title="Follow on Facebook"><img src="https://img.shields.io/badge/Facebook-👥-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-    <!-- Portfolio -->
-<a href="https://sazzat.com" title="View my Portfolio"><img src="https://img.shields.io/badge/Portfolio-🌐-blue?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
-    <!-- Blog -->
-<a href="https://eracox.com" title="Read my Blog"><img src="https://img.shields.io/badge/Blog-✍️-orange?style=for-the-badge&logoColor=white" alt="Blog"></a></p>
+  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank"><img src="https://img.shields.io/badge/SCHOLAR-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>&nbsp;
+  <a href="https://orcid.org/YOUR_ID" target="_blank"><img src="https://img.shields.io/badge/ORCID_iD-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID iD" /></a>&nbsp;
+  <a href="https://sazzat.com" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-0077B5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <a href="https://eracox.com" target="_blank"><img src="https://img.shields.io/badge/BLOG-FF9900?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>&nbsp;
+  <a href="mailto:your-email@domain.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
   
 <!-- Animated Typewriter Text -->
 <p align="center">
