@@ -106,12 +106,12 @@ My academic research investigates governance, public policy, and international r
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://linkedin.com/in/sazzathj" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank"><img src="https://img.shields.io/badge/SCHOLAR-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>&nbsp;
-  <a href="https://orcid.org/YOUR_ID" target="_blank"><img src="https://img.shields.io/badge/ORCID_iD-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID iD" /></a>&nbsp;
+  <a href="https://orcid.org/0009-0009-2669-7196" target="_blank"><img src="https://img.shields.io/badge/ORCID_iD-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID iD" /></a>&nbsp;
   <a href="https://sazzat.com" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-0077B5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
   <a href="https://eracox.com" target="_blank"><img src="https://img.shields.io/badge/BLOG-FF9900?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>&nbsp;
-  <a href="mailto:your-email@domain.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:sazzat.hj@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
   
 <!-- Animated Typewriter Text -->
@@ -121,20 +121,3 @@ My academic research investigates governance, public policy, and international r
 
 ---
 
-
-
-
-<!--
-**SazzatHj/SazzatHj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
