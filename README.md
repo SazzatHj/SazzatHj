@@ -37,21 +37,16 @@ My academic research investigates governance, public policy, and international r
 ---
 ## 🚀 Featured Tech Stack
 
-<p align="left">
-  <!-- Cybersecurity -->
-  <img src="https://img.shields.io/badge/CYBERSECURITY-EA4335?style=for-the-badge&logo=shieldsecurity&logoColor=white" alt="Cybersecurity" />
-  <!-- R Language -->
-  <img src="https://img.shields.io/badge/R_LANGUAGE-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Language" />
-  <!-- LaTeX -->
-  <img src="https://img.shields.io/badge/LA_TeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-  <!-- WordPress -->
-  <img src="https://img.shields.io/badge/WORDPRESS-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <!-- Linux -->
-  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <!-- Git -->
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
+![Reproducible Research](https://img.shields.io/badge/REPRODUCIBLE_RESEARCH-005F73?style=for-the-badge&logo=githubactions&logoColor=white)
+![R Language](https://img.shields.io/badge/R%20LANGUAGE-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LATEX-008080?style=for-the-badge&logo=latex&logoColor=white) 
+![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-E44D26?style=for-the-badge&logo=shieldsdotio&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-4B0082?style=for-the-badge&logo=spyder&logoColor=white)
+![WordPress Security](https://img.shields.io/badge/WORDPRESS_SECURITY-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-A30000?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ---
 
 ## 💼 Leadership & Initiatives
