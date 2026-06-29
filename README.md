@@ -22,11 +22,16 @@ Welcome to my digital space! I am a researcher and data analyst focused on bridg
 ---
 
 ### 📈 GitHub Insights & Activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SazzatHj&show_icons=true&theme=tokyonight&count_private=true" alt="Sazzat Hj's GitHub Stats" height="190px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SazzatHj&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="190px" />
+</p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SazzatHj&show_icons=true&theme=tokyonight&count_private=true" alt="Sazzat's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SazzatHj&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SazzatHj&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 
 ---
 
