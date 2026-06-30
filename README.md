@@ -6,7 +6,7 @@ I am an Academic Researcher and Cybersecurity Specialist. I specialize in levera
 
 My work uniquely integrates Reproducible Research practices with advanced technical domains like Open Source Intelligence (OSINT), Penetration Testing, and Data Analytics. Whether modeling complex human behavior for academic insight or securing web applications against sophisticated attack vectors, I deliver rigorous, data-backed, and security-first solutions.
 
-🌐 **Official Portfolio:** [sazzat.com](https://sazzat.com) | ✍️ **Technical Blog:** [eracox.com](https://eracox.com)
+🌐 **Portfolio:** [sazzat.com](https://sazzat.com) | ✍️ **Blogsite:** [eracox.com](https://eracox.com)
 
 ---
 
@@ -88,11 +88,10 @@ My academic research investigates governance, public policy, and international r
 
 ### 📈 GitHub Insights & Activity
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SazzatHj&show_icons=true&theme=tokyonight&count_private=true" alt="Sazzat Hj's GitHub Stats" height="190px" />
+  <img src="https://github-readme-stats.azurewebsites.net/api?username=SazzatHj&show_icons=true&theme=tokyonight&count_private=true" alt="Sazzat Hj's GitHub Stats" height="190px" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SazzatHj&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="190px" />
+  <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=SazzatHj&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="190px" />
 </p>
-
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SazzatHj&theme=tokyonight" alt="GitHub Streak" />
 </p>
