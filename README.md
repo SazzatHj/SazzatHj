@@ -26,7 +26,7 @@ My academic research investigates governance, public policy, and international r
 
 | Domain | Tools, Languages & Methodologies |
 | :--- | :--- |
-| **Research & Analysis** | `R` • `RStudio` • `SPSS` • `SQL` • `tidyverse` • `Quantitative & Reproducible Research` |
+| **Research & Analysis** | `R` • `RStudio` • `SPSS` • `SQL` • `tidyverse` • `Reproducible Research` |
 | **Academic Publishing** | `LaTeX` • `TeXstudio` • `TeXmaker` • `Overleaf` • `Zotero` • `R Markdown` |
 | **SecOps, VAPT & OSINT** | `OSINT` • `Penetration Testing` • `Ethical Hacking` • `Vulnerability Assessment` |
 | **WordPress & Web Security** | `Malware Removal` • `Secure Site Migration` • `Error Fixing` • `WordPress Site Management` |
