@@ -23,7 +23,6 @@ My academic research investigates governance, public policy, and international r
 ---
 
 ## 🛠️ Technical Stack & Frameworks
-
 | Domain | Tools, Languages & Methodologies |
 | :--- | :--- |
 | **Research & Analysis** | `R` • `RStudio` • `SPSS` • `SQL` • `tidyverse` • `Reproducible Research` |
