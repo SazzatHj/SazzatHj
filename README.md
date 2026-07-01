@@ -40,7 +40,7 @@ My academic research investigates governance, public policy, and international r
 ![Data Science](https://img.shields.io/badge/DATA_SCIENCE-CF5C42?style=for-the-badge&logo=datascience&logoColor=white)
 ![Reproducible Research](https://img.shields.io/badge/REPRODUCIBLE_RESEARCH-005F73?style=for-the-badge&logo=githubactions&logoColor=white)
 ![R Language](https://img.shields.io/badge/R%20LANGUAGE-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LATEX-008080?style=for-the-badge&logo=latex&logoColor=white) 
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) 
 ![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-E44D26?style=for-the-badge&logo=shieldsdotio&logoColor=white)
 ![OSINT](https://img.shields.io/badge/OSINT-4B0082?style=for-the-badge&logo=spyder&logoColor=white)
 ![WordPress Security](https://img.shields.io/badge/WORDPRESS_SECURITY-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
