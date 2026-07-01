@@ -78,18 +78,23 @@ My academic research investigates governance, public policy, and international r
 ---
 
 <details>
-<summary><b> 🏅 Professional Certifications & Credentials (Click to expand)</b></summary>
+<summary>🏅 <b>Professional Certifications & Credentials (Click to expand)</b></summary>
 <br>
 
-* **Reproducible Research Fundamentals** (2026) — *The World Bank Group Institute for Economic Development (WBIED)*
-* **Introduction to Behavioral Science in Public Policy** (2026) — *The World Bank Group Institute for Economic Development (WBIED)*
-* **Cyber Security & Ethical Hacking** (2026) — *Arena Web Security (6-Month Professional Course)*
+#### 🔒 Cybersecurity & Technical Credentials
+* **Cyber Security & Ethical Hacking** (2026) — *Arena Web Security* (6-Month Professional Course)
 * **Introduction to Cybersecurity** (2026) — *Cisco Networking Academy*
 * **Cybersecurity** (2026) — *Asian Development Bank Institute (ADBI)*
-* **Children’s Environmental Health** (2026) — *UNICEF & WHO (AGORA)*
-* **Applied AI for Social Good (Research and Governance)** (2025) — *PoliSync in collaboration with Microsoft Elevate & Partners*
-* **Computer Office Application** (2017) — *Bangladesh Technical Education Board (6-Month Professional Course)*
+* **Computer Office Application** (2017) — *Bangladesh Technical Education Board* (6-Month Professional Course)
 
+#### 📊 Research, Public Policy & Social Good
+* **Reproducible Research Fundamentals** (2026) — *The World Bank Group Institute for Economic Development (WBIED)*
+* **Introduction to Behavioral Science in Public Policy** (2026) — *The World Bank Group Institute for Economic Development (WBIED)*
+* **Applied AI for Social Good (Research and Governance)** (2025) — *PoliSync in collaboration with Microsoft Elevate & Partners*
+* **Children’s Environmental Health** (2026) — *UNICEF & WHO (AGORA)*
+
+<br>
+👉 <i>To view the full digital certificates and verification links, visit my dedicated <a href="আপনার-সার্টিফিকেট-পেইজের-লিংক">Certifications Page ↗</a>.</i>
 </details>
 
 ---
