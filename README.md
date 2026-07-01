@@ -43,11 +43,16 @@ My academic research investigates governance, public policy, and international r
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) 
 ![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-E44D26?style=for-the-badge&logo=shieldsdotio&logoColor=white)
 ![OSINT](https://img.shields.io/badge/OSINT-4B0082?style=for-the-badge&logo=spyder&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/KALI_LINUX-557C93?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/BURP_SUITE-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/WIRESHARK-167EC6?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/METASPLOIT-3F51B5?style=for-the-badge&logo=metasploit&logoColor=white)
 ![WordPress Security](https://img.shields.io/badge/WORDPRESS_SECURITY-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-A30000?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ---
 
 ## 💼 Leadership & Initiatives
