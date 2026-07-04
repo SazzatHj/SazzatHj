@@ -93,7 +93,7 @@ My academic research investigates governance, public policy, and international r
 * **Children’s Environmental Health** (2026) — *UNICEF & WHO (AGORA)*
 
 <br>
-👉 <i>To view the full digital certificates and verification links, visit my dedicated <a href="আপনার-সার্টিফিকেট-পেইজের-লিংক">Certifications Page ↗</a>.</i>
+👉 <i>To view the full digital certificates and verification links, visit my dedicated <a href="https://sazzat.com/certificates">Certifications Page ↗</a>.</i>
 </details>
 
 ---
@@ -102,12 +102,12 @@ My academic research investigates governance, public policy, and international r
 ### 📊 GitHub Insights & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SazzatHj&show_icons=true&theme=tokyonight" alt="SazzatHj's GitHub Stats" height="200" />  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SazzatHj&theme=tokyonight" alt="Top Languages Pie Chart" height="200" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SazzatHj&show_icons=true&theme=tokyonight" alt="SazzatHj's GitHub Stats" height="200" /> &nbsp; <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SazzatHj&theme=tokyonight" alt="Top Languages Pie Chart" height="200" />
 </p>
 
 <p align="center" >
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SazzatHj&theme=tokyonight" alt="Productive Time" height="200" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SazzatHj&theme=tokyonight" alt="SazzatHj's GitHub Streak" height="200" />
+ &nbsp;  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SazzatHj&theme=tokyonight" alt="SazzatHj's GitHub Streak" height="200" />
 
 </p>
 <!--
