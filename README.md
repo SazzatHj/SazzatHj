@@ -107,10 +107,9 @@ My academic research investigates governance, public policy, and international r
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SazzatHj&show_icons=true&theme=tokyonight" alt="SazzatHj's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SazzatHj&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SazzatHj&theme=2077" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SazzatHj&theme=2077" width="48%" />
 </p>
-
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SazzatHj&theme=tokyonight" alt="GitHub Streak" />
