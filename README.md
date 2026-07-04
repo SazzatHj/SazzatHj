@@ -99,21 +99,18 @@ My academic research investigates governance, public policy, and international r
 
 ---
 
-### 📈 GitHub Insights & Activity
-<p align="left">
-  <img src="https://github-readme-stats.azurewebsites.net/api?username=SazzatHj&show_icons=true&theme=tokyonight&count_private=true" alt="Sazzat Hj's GitHub Stats" height="190px" />
-  
-  <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=SazzatHj&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="190px" />
+
+### 📊 GitHub Insights & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SazzatHj&show_icons=true&theme=tokyonight" alt="SazzatHj's GitHub Stats" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SazzatHj&theme=tokyonight" alt="Top Languages Pie Chart" height="200" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SazzatHj&theme=2077" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SazzatHj&theme=2077" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SazzatHj&theme=tokyonight" alt="SazzatHj's GitHub Streak" height="100%" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SazzatHj&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 
 <!-- FOOTER -->
