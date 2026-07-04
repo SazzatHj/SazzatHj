@@ -79,9 +79,8 @@ My academic research investigates governance, public policy, and international r
 
 <details>
 <summary>🏅 <b>Professional Certifications & Credentials (Click to expand)</b></summary>
-<br>
 
-#### 🔒 Cybersecurity & Technical Credentials
+ #### 🔒 Cybersecurity & Technical Credentials
 * **Cyber Security & Ethical Hacking** (2026) — *Arena Web Security* (6-Month Professional Course)
 * **Introduction to Cybersecurity** (2026) — *Cisco Networking Academy*
 * **Cybersecurity** (2026) — *Asian Development Bank Institute (ADBI)*
