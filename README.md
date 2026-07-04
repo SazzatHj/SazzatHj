@@ -112,7 +112,7 @@ My academic research investigates governance, public policy, and international r
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SazzatHj&theme=tokyonight&bg_color=1a1b26&hide_border=false" alt="SazzatHj's Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SazzatHj&theme=tokyonight&bg_color=1a1b26&hide_border=false" alt="SazzatHj's Activity Graph" />
 </p>
 
 
