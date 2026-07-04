@@ -107,10 +107,43 @@ My academic research investigates governance, public policy, and international r
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SazzatHj&theme=tokyonight" alt="Top Languages Pie Chart" height="200" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SazzatHj&theme=tokyonight" alt="SazzatHj's GitHub Streak" height="100%" />
+<p align="center" style="margin-top: -10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SazzatHj&theme=tokyonight" alt="Productive Time" height="200" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SazzatHj&theme=tokyonight" alt="SazzatHj's GitHub Streak" height="200" />
+
 </p>
 
+<p align="center" style="margin-top: -10px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SazzatHj&theme=tokyonight&bg_color=1a1b26&hide_border=false" alt="SazzatHj's Activity Graph"  />
+</p>
+
+### 📊 GitHub Insights & Activity
+
+<table width="100%" cellSpacing="0" cellPadding="4" border="0">
+  <!-- প্রথম লাইন: মূল স্ট্যাটাস এবং ল্যাঙ্গুয়েজ পাই চার্ট -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SazzatHj&show_icons=true&theme=tokyonight" alt="SazzatHj's GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SazzatHj&theme=tokyonight" alt="Top Languages Pie Chart"  />
+    </td>
+  </tr>
+  <!-- দ্বিতীয় লাইন: প্রোডাক্টিভ টাইম এবং কন্ট্রিবিউশন স্ট্রাইক -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SazzatHj&theme=tokyonight" alt="Productive Time" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SazzatHj&theme=tokyonight" alt="SazzatHj's GitHub Streak" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<!-- তৃতীয় লাইন: নিচে ফুল-উইডথ কন্ট্রিবিউশন গ্রাফ -->
+<p align="center" style="margin-top: 8px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SazzatHj&theme=tokyonight&bg_color=1a1b26&hide_border=false" alt="SazzatHj's Activity Graph" width="100%" />
+</p>
 
 
 <!-- FOOTER -->
