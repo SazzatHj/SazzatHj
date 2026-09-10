@@ -102,7 +102,7 @@ My academic research investigates governance, public policy, and international r
 ### 📊 GitHub Insights & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SazzatHj&show_icons=true&theme=tokyonight" alt="SazzatHj's GitHub Stats" height="200" /> &nbsp; <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SazzatHj&theme=tokyonight" alt="Top Languages Pie Chart" height="200" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SazzatHj&theme=tokyonight" alt="Top Languages Pie Chart" height="200" />
 </p>
 
 <p align="center" >
